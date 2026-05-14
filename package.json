@@ -1,6 +1,6 @@
 {
   "name": "nexusq-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Standalone compiler for the Nexus-Q language",
   "bin": {
     "nexusq": "./bin/nexusq.exe"
